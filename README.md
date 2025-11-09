@@ -2,7 +2,7 @@
 # 🔍 Advanced SQL Injection Scanner
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/2D3748/FFFFFF?text=SQL+Injection+Scanner+Dashboard" alt="SQL Scanner Dashboard" width="800"/>
+  <img src="https://github.com/nasifh4s4n/W-SCAN/blob/main/Screenshot_20251109-195108.jpg" alt="SQL Scanner Dashboard" width="800"/>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ cd W-SCAN
 pip install -r requirements.txt
 
 # Run the scanner
-python WSCAN.py
+python Wscan.py
 ```
 
 
@@ -56,7 +56,7 @@ python WSCAN.py
 Basic Usage
 
 ```bash
-python sql_scanner.py
+python Wscan.py
 ```
 
 Interactive Workflow
@@ -101,7 +101,7 @@ Example Output
 
 ```
 sql-scanner/
-├── 📄 sql_scanner.py          # Main scanner script
+├── 📄 Wscan.py          # Main scanner script
 ├── 📄 requirements.txt        # Python dependencies
 ├── 📄 README.md              # This file
 ├── 📁 payloads/              # Custom payload directory
@@ -140,12 +140,6 @@ admin'--
 # WAF bypass
 '/**/OR/**/'1'='1'--
 ```
-
-📊 Output Examples
-
-Console Output
-
-https://via.placeholder.com/700x300/1a202c/FFFFFF?text=Rich+Console+Output+with+Colors+and+Progress+Bars
 
 Log Files
 
@@ -237,7 +231,7 @@ We welcome contributions! Please:
 Development Setup
 
 ```bash
-git clone https://github.com/yourusername/sql-scanner.git
+git clone https://github.com/nasifh4s4n/W-SCAN.git
 cd sql-scanner
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
@@ -259,10 +253,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <p align="center">
-  <strong>Made with ❤️ for the security community</strong>
+  <strong>Made with ❤️ for the newcomers</strong>
 </p>
 
 <p align="center">
   <sub>If you find this tool helpful, please give it a ⭐!</sub>
 </p>
-```
+
